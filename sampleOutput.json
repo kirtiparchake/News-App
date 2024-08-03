@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Jesse Newman, Heather Haddon",
+            "title": "The Era of Rapidly Rising Food Prices Is Over",
+            "description": "Companies are dangling $5 burger meals and flakier biscuits to encourage consumer spending while trying to keep profits steady",
+            "url": "https://www.wsj.com/economy/consumers/the-era-of-rapidly-rising-food-prices-is-over-a543eb7b?mod=hp_lead_pos5",
+            "urlToImage": "https://images.wsj.net/im-986015/social",
+            "publishedAt": "2024-08-01T09:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Alison Xiao",
+            "title": "McDonald's sales fall as inflation-weary customers turn away from fast food",
+            "description": "Global giant McDonald's has recorded its first drop in sales in nearly four years, as customers cut back on spending amid a cost-of-living crunch.",
+            "url": "https://www.abc.net.au/news/2024-08-01/mcdonalds-drop-sales-inflation-cost-of-living-cut-back/104167070",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/d37b76f59214b6e79e407eda54bb0d5d?impolicy=wcms_watermark_news&cropH=1689&cropW=3000&xPos=0&yPos=402&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-07-31T23:35:30Z",
+            "content": "Global giant McDonald's has recorded its first drop in sales in nearly four years, as customers cut back on spending amid a cost-of-living crunch.\r\nSales at locations open for at least a year fell 1 … [+5045 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Siôn Geschwindt",
+            "title": "Mobility giant Bolt adopts self-driving Starship robots for food delivery",
+            "description": "Bolt plans to roll out thousands of the robots across multiple countries, starting in its home city of Tallinn later this year.",
+            "url": "http://thenextweb.com/news/mobility-giant-bolt-adopts-self-driving-starship-robots-for-food-delivery",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F06%2Fbolt-starship-robot-delivery.jpg&signature=c902ce701ce95e20f6fd703a50ad52ca",
+            "publishedAt": "2023-06-22T09:17:15Z",
+            "content": "European ride-hailing firm Bolt will start using self-driving robots to deliver customers food as part of a new partnership with fellow Estonian company Starship Technologies, announced yesterday.  \r… [+2447 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Dipak K Dash",
+            "title": "Government to provide 5 kg free food grains to poor for May & June",
+            "description": "India News: The government on Friday announced to provide 5 kg free food grains to the poor for May and June 2021. This will cover nearly 80 crore beneficiaries u",
+            "url": "http://timesofindia.indiatimes.com/india/government-to-provide-5-kg-free-food-grains-to-poor-for-may-june/articleshow/82213582.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-82213583,width-1070,height-580,imgsize-1921513,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-04-23T04:23:00Z",
+            "content": null
+        }
+    ]
+}
