@@ -1,12 +1,12 @@
-import React, { Component } from 'react'
+import React from 'react';
+import loading from './loading.gif'; // Make sure this path is correct
 
-
-export default class Spinner extends Component {
-  render() {
+const Spinner = () => {
     return (
-      <div>
-        <img  style={{width:'50px',margin:'auto',display:'block'}} src="https://media.tenor.com/wpSo-8CrXqUAAAAi/loading-loading-forever.gif" alt="" />
-      </div>
-    )
-  }
+        <div className="text-center">
+            <img className="my-3" src={loading} alt="loading" />
+        </div>
+    );
 }
+
+export default Spinner;
